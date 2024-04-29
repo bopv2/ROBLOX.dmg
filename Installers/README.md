@@ -1,7 +1,7 @@
 # RobloxStudio.dmg
 * 0.622.0.6220470
 
-# RobloxPlayer.dmg
+# Roblox.dmg
 * 0.622.0.62204704
 
 # RobloxStudioInstaller
